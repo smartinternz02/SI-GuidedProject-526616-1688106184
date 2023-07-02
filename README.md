@@ -30,9 +30,9 @@ The Doctor Appointment Booking System is a web application developed as part of 
 
 
 ### Contributors
-Nivedita Kokil,
-Vedish Kabra,
-Anshita Banthia
+- Nivedita Kokil
+- Anshita Banthia
+- Vedish Kabara
 
 ### Acknowledgments
 Special thanks to SmartBridge mentors- Miss Sandeep doodigani and Miss Anjali Singh for guidance and support throughout the internship.
