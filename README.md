@@ -19,8 +19,16 @@ The Doctor Appointment Booking System is a web application developed as part of 
 - H2 inmemory database
 - CRUD operations
 
-### Requirements
+### Requirement
 - Maven
 - Java
 
+### Contributors
+Nivedita Kokil
+Vedish Kabra
+Anshita Banthia
+
+### Acknowledgments :
+Special thanks to SmartBridge mentors- Miss Sandeep doodigani and Miss Anjali Singh for guidance and support throughout the internship.
+Inspired by similar projects and existing doctor appointment booking systems
 
