@@ -31,7 +31,7 @@ The Doctor Appointment Booking System is a web application developed as part of 
 
 ### Contributors
 - Nivedita Kokil
-- Anshita Banthia
+- Anshita Banthia 
 - Vedish Kabara
 
 ### Acknowledgments
