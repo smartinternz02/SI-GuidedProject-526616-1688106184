@@ -1,5 +1,7 @@
-# Doctor-Appointment-Scheduler
-A springboot based project that provides and easy to use web application which enables patients to schedule an appointment with a doctor of their choice.
+# Doctor-Appointment
+Overview
+The Doctor Appointment Booking System is a web application developed as part of an internship project. It is built using Java Spring Boot framework and provides a convenient platform for users to book appointments with doctors. The system aims to simplify the process of scheduling and managing doctor appointments, enhancing the overall experience for both patients and healthcare providers.
+
 
 ### Functionalities
 * Patient Regitrsation 
